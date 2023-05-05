@@ -1,0 +1,15 @@
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\obj\Debug\net6.0\tesk026_NumberOfDigits.csproj.AssemblyReference.cache
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\obj\Debug\net6.0\tesk026_NumberOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\obj\Debug\net6.0\tesk026_NumberOfDigits.AssemblyInfoInputs.cache
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\obj\Debug\net6.0\tesk026_NumberOfDigits.AssemblyInfo.cs
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\obj\Debug\net6.0\tesk026_NumberOfDigits.csproj.CoreCompileInputs.cache
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\bin\Debug\net6.0\tesk026_NumberOfDigits.exe
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\bin\Debug\net6.0\tesk026_NumberOfDigits.deps.json
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\bin\Debug\net6.0\tesk026_NumberOfDigits.runtimeconfig.json
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\bin\Debug\net6.0\tesk026_NumberOfDigits.dll
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\bin\Debug\net6.0\tesk026_NumberOfDigits.pdb
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\obj\Debug\net6.0\tesk026_NumberOfDigits.dll
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\obj\Debug\net6.0\refint\tesk026_NumberOfDigits.dll
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\obj\Debug\net6.0\tesk026_NumberOfDigits.pdb
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\obj\Debug\net6.0\tesk026_NumberOfDigits.genruntimeconfig.cache
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk026_NumberOfDigits\obj\Debug\net6.0\ref\tesk026_NumberOfDigits.dll

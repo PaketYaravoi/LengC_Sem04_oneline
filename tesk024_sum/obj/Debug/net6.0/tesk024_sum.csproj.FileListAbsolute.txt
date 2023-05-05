@@ -1,0 +1,15 @@
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\obj\Debug\net6.0\tesk024_sum.csproj.AssemblyReference.cache
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\obj\Debug\net6.0\tesk024_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\obj\Debug\net6.0\tesk024_sum.AssemblyInfoInputs.cache
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\obj\Debug\net6.0\tesk024_sum.AssemblyInfo.cs
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\obj\Debug\net6.0\tesk024_sum.csproj.CoreCompileInputs.cache
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\bin\Debug\net6.0\tesk024_sum.exe
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\bin\Debug\net6.0\tesk024_sum.deps.json
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\bin\Debug\net6.0\tesk024_sum.runtimeconfig.json
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\bin\Debug\net6.0\tesk024_sum.dll
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\bin\Debug\net6.0\tesk024_sum.pdb
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\obj\Debug\net6.0\tesk024_sum.dll
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\obj\Debug\net6.0\refint\tesk024_sum.dll
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\obj\Debug\net6.0\tesk024_sum.pdb
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\obj\Debug\net6.0\tesk024_sum.genruntimeconfig.cache
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk024_sum\obj\Debug\net6.0\ref\tesk024_sum.dll
