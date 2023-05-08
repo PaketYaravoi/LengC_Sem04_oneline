@@ -8,11 +8,17 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 int NumberOfDigits(int n)
 {
-    int count = 1;
-    if(n == 0) count = 1;
-    for(int i = number; i != 1; count++ )
+    int count;
+    if(n == 0 )
     {
-        i = i / 10;
+        count = 1;   
+    }
+    else
+    {
+        for(count = 0; n > 0; count++ )
+        {
+        n = n / 10;
+        }    
     }
     return count;
 }

@@ -32,4 +32,24 @@ int FastSumFrom1ToN( int n)
                                       
 }
 
-Console.WriteLine(FastSumFrom1ToN(7));
+//Console.WriteLine(FastSumFrom1ToN(4));
+
+
+
+// Задача 28. Программа которая принимает вход, N число а на выходе показывает произведение всех чисел от 1го до N 
+
+
+// в точности такая же прогрмма за исключением знаков, если тут у нас было сложение , то здесь напишем функцию для умножения
+
+int MultiplayFrom1ToN(int n )
+{
+    int mult = 1;
+    for(int i = 1; i <= n; i++ )
+    {
+        mult = mult * i;
+    }
+    return mult;
+}
+
+Console.Write($"Произведение всех числе от 1 до {number} = ");
+Console.WriteLine(MultiplayFrom1ToN(number));
