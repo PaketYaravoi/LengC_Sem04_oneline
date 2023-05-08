@@ -1,0 +1,15 @@
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\obj\Debug\net6.0\tesk030_GetRandomMassiv.csproj.AssemblyReference.cache
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\obj\Debug\net6.0\tesk030_GetRandomMassiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\obj\Debug\net6.0\tesk030_GetRandomMassiv.AssemblyInfoInputs.cache
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\obj\Debug\net6.0\tesk030_GetRandomMassiv.AssemblyInfo.cs
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\obj\Debug\net6.0\tesk030_GetRandomMassiv.csproj.CoreCompileInputs.cache
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\bin\Debug\net6.0\tesk030_GetRandomMassiv.exe
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\bin\Debug\net6.0\tesk030_GetRandomMassiv.deps.json
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\bin\Debug\net6.0\tesk030_GetRandomMassiv.runtimeconfig.json
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\bin\Debug\net6.0\tesk030_GetRandomMassiv.dll
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\bin\Debug\net6.0\tesk030_GetRandomMassiv.pdb
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\obj\Debug\net6.0\tesk030_GetRandomMassiv.dll
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\obj\Debug\net6.0\refint\tesk030_GetRandomMassiv.dll
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\obj\Debug\net6.0\tesk030_GetRandomMassiv.pdb
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\obj\Debug\net6.0\tesk030_GetRandomMassiv.genruntimeconfig.cache
+C:\Gb\lenguages\c#\Seminar004\tesk\tesk030_GetRandomMassiv\obj\Debug\net6.0\ref\tesk030_GetRandomMassiv.dll
