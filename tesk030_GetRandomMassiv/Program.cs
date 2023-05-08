@@ -29,12 +29,12 @@ void FillRandomArray(int[] DummyArray)  // Вот она главная особ
 }                                        
 
 
-int[] RandomArray = GetRandomArray(8);                    // создаем переменную в которую заносим результат функции GetRandomArray, которая в свою очередь начинает работать только тут, 
+int[] randomArray = GetRandomArray(8);                    // создаем переменную в которую заносим результат функции GetRandomArray, которая в свою очередь начинает работать только тут, 
                                                           // тут мы ее вызываем  и тут даем аргумент длинны(8) 
-string ArrayAsString = string.Join(", ", RandomArray);    // конвертируем массив в строку 
-Console.WriteLine(ArrayAsString);                         // показываем новую строку, в которой ранее занесли массив
+string arrayAsString = string.Join(", ", randomArray);    // конвертируем массив в строку 
+Console.WriteLine(arrayAsString);                         // показываем новую строку, в которой ранее занесли массив
 
-FillRandomArray(RandomArray);
+FillRandomArray(randomArray);
 //ArrayAsString = "";
-ArrayAsString = string.Join(", ", RandomArray);
-Console.WriteLine(ArrayAsString);
+arrayAsString = string.Join(", ", randomArray);
+Console.WriteLine(arrayAsString);
