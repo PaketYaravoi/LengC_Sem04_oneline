@@ -9,6 +9,7 @@ int number = Convert.ToInt32(Console.ReadLine());
 int NumberOfDigits(int n)
 {
     int count = 1;
+    if(n == 0) count = 1;
     for(int i = number; i != 1; count++ )
     {
         i = i / 10;
